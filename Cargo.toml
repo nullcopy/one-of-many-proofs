@@ -1,10 +1,10 @@
 [package]
 name = "one-of-many-proofs"
 version = "0.1.0"
+license = "AGPL-3.0-or-later"
 authors = ["cargodog <cargodog@protonmail.com>"]
 edition = "2018"
 description = "Implementation of one-of-many zero-knowledge membership proofs."
-license-file = "LICENSE"
 repository = "https://github.com/cargodog/one-of-many-proofs"
 
 [dependencies]
